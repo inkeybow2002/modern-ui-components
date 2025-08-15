@@ -15,7 +15,7 @@
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
-    "react-scripts": "^4.0.0"
+    "react-scripts": "^5.0.0"  // Updated to improve compatibility with React 18
   },
   "license": "MIT"
 }
