@@ -1,7 +1,7 @@
 {
   "name": "modern-ui-components",
   "version": "1.0.0",
-  "description": "A collection of customizable UI components designed for modern web applications, adhering to contemporary design principles.",
+  "description": "A collection of customizable UI components designed for modern web applications with a focus on accessibility and responsive design principles.",
   "main": "src/index.js",
   "scripts": {
     "start": "react-scripts start",
